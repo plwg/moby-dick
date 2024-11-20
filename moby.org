@@ -438,6 +438,7 @@
     :CUSTOM_ID: chapter-87---the-grand-armada
     :END:
 
+- [[https://en.wikipedia.org/wiki/Drogue][Drogue - Wikipedia]]
 - [[https://en.wikipedia.org/wiki/Sperm_whale#Relations_within_the_species][Social behaviors of sperm whale]]
 
 *** Chapter 88 - Schools and Schoolmasters
