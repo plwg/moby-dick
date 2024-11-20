@@ -11,24 +11,21 @@
    :END:
 - [[https://whalesite.org/][Whalesite home page]]
 - [[https://whalesite.org/whaling/index.htm][Whalesite]]
-- [[https://whalesite.org/whaling/whalecraft/index.html][WHALECRAFT, a
-  research and educational source for whaling implements]]
+- [[https://whalesite.org/whaling/whalecraft/index.html][WHALECRAFT, a research and educational source for whaling implements]]
 - [[http://www.powermobydick.com/][POWER MOBY-DICK]]
-- [[https://beigemoth.blog/moby-dick/][The Beige Moth's
-  chapter-by-chapter summary and commentary]]
-- [[https://en.wikipedia.org/wiki/Sperm_whale][Sperm whale - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Spermaceti][Spermceti - Wikipedia]]
+- [[https://beigemoth.blog/moby-dick/][The Beige Moth's chapter-by-chapter summary and commentary]]
+- [[https://en.wikipedia.org/wiki/Aboriginal_whaling][Aboriginal whaling - Wikipedia]]
 - [[https://en.wikipedia.org/wiki/Ambergris][Ambergris - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Sperm_whaling][Sperm whaling -
-  Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Whale_oil][Whale oil - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Harpoon][Harpoon - Wikipedia]]
 - [[https://en.wikipedia.org/wiki/Moby-Dick][Moby-Dick - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Aboriginal_whaling][Aboriginal
-  whaling - Wikipedia]]
-- [[https://tvtropes.org/pmwiki/pmwiki.php/Literature/MobyDick][Moby-Dick
-  (Literature) - TV Tropes]]
-- [[https://allthetropes.org/wiki/Moby-Dick][Moby-Dick - All The
-  Tropes]]
+- [[https://en.wikipedia.org/wiki/Right_whale][Right whale - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Sperm_whale][Sperm whale - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Sperm_whaling][Sperm whaling - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Spermaceti][Spermceti - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Whale_oil][Whale oil - Wikipedia]]
+- [[https://tvtropes.org/pmwiki/pmwiki.php/Literature/MobyDick][Moby-Dick (Literature) - TV Tropes]]
+- [[https://allthetropes.org/wiki/Moby-Dick][Moby-Dick - All The Tropes]]
+  
 ** Chapter-by-chapter Resources
    :PROPERTIES:
    :CUSTOM_ID: chapter-by-chapter-resources
@@ -112,9 +109,7 @@
   ship]]
 - [[https://nha.org/research/nantucket-history/history-topics/short-lays-on-greasy-voyages-whaling-and-venture-capital/][On
   the parallel between whaling expedition and venture captial]]
-- [[https://www.youtube.com/watch?v=RnqIMI_Epeo]["Financing Whaling
-  Ventures: A Case Study on Long Lays on Greasy Voyages" with Jonas
-  Peter Akins - YouTube]]
+- [[https://www.youtube.com/watch?v=RnqIMI_Epeo]["Financing Whaling Ventures: A Case Study on Long Lays on Greasy Voyages" with Jonas Peter Akins - YouTube]]
 
 *** Chapter 17 - The Ramadan
     :PROPERTIES:
@@ -428,14 +423,23 @@
     :PROPERTIES:
     :CUSTOM_ID: chapter-85---the-fountain
     :END:
+
+- [[https://en.wikipedia.org/wiki/Blowhole_(anatomy)][Blowhole (anatomy) - Wikipedia]]
+
 *** Chapter 86 - The Tail
     :PROPERTIES:
     :CUSTOM_ID: chapter-86---the-tail
     :END:
+
+- [[https://en.wikipedia.org/wiki/Sperm_whale#Biology][Sperm whale morphology]]
+
 *** Chapter 87 - The Grand Armada
     :PROPERTIES:
     :CUSTOM_ID: chapter-87---the-grand-armada
     :END:
+
+- [[https://en.wikipedia.org/wiki/Sperm_whale#Relations_within_the_species][Social behaviors of sperm whale]]
+
 *** Chapter 88 - Schools and Schoolmasters
     :PROPERTIES:
     :CUSTOM_ID: chapter-88---schools-and-schoolmasters
