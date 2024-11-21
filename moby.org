@@ -9,24 +9,17 @@
    :PROPERTIES:
    :CUSTOM_ID: general-resources
    :END:
+
+*** Useful Sites
+
 - [[https://whalesite.org/][Whalesite home page]]
 - [[https://whalesite.org/whaling/index.htm][Whalesite]]
 - [[https://whalesite.org/whaling/whalecraft/index.html][WHALECRAFT, a research and educational source for whaling implements]]
 - [[http://www.powermobydick.com/][POWER MOBY-DICK]]
 - [[https://beigemoth.blog/moby-dick/][The Beige Moth's chapter-by-chapter summary and commentary]]
-- [[https://en.wikipedia.org/wiki/Aboriginal_whaling][Aboriginal whaling - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Ambergris][Ambergris - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Essex_(whaleship)][Essex (whaleship) - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Harpoon][Harpoon - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Moby-Dick][Moby-Dick - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Mocha_Dick][Mocha Dick - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Right_whale][Right whale - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Sperm_whale][Sperm whale - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Sperm_whaling][Sperm whaling - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Spermaceti][Spermceti - Wikipedia]]
-- [[https://en.wikipedia.org/wiki/Whale_oil][Whale oil - Wikipedia]]
 - [[https://tvtropes.org/pmwiki/pmwiki.php/Literature/MobyDick][Moby-Dick (Literature) - TV Tropes]]
 - [[https://allthetropes.org/wiki/Moby-Dick][Moby-Dick - All The Tropes]]
+
   
 ** Chapter-by-chapter Resources
    :PROPERTIES:
@@ -74,6 +67,7 @@
     :END:
 - [[https://en.wikipedia.org/wiki/Book_of_Jonah#][Book of Jonah -
   Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Jonah][Jonah - Wikipedia]]
 
 *** Chapter 10 - A Bosom Friend
     :PROPERTIES:
@@ -417,6 +411,11 @@
     :PROPERTIES:
     :CUSTOM_ID: chapter-83---jonah-historically-regarded
     :END:
+
+- [[https://en.wikipedia.org/wiki/Book_of_Jonah#][Book of Jonah -
+  Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Jonah][Jonah - Wikipedia]]
+
 *** Chapter 84 - Pitchpoling
     :PROPERTIES:
     :CUSTOM_ID: chapter-84---pitchpoling
@@ -639,3 +638,25 @@
     :PROPERTIES:
     :CUSTOM_ID: epilogue
     :END:
+
+** Encyclopedia
+
+- [[https://en.wikipedia.org/wiki/Aboriginal_whaling][Aboriginal whaling - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Ambergris][Ambergris - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Blowhole_(anatomy)][Blowhole (anatomy) - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Blubber][Blubber - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Book_of_Jonah#][Book of Jonah - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Drogue][Drogue - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Essex_(whaleship)][Essex (whaleship) - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Flensing][Flensing - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Harpoon][Harpoon - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Jonah][Jonah - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Moby-Dick][Moby-Dick - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Mocha_Dick][Mocha Dick - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Quarterdeck][Quarterdeck - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Right_whale][Right whale - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Sperm_whale][Sperm whale - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Sperm_whaling][Sperm whaling - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Spermaceti][Spermceti - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Whale_meat][Whale meat - Wikipedia]]
+- [[https://en.wikipedia.org/wiki/Whale_oil][Whale oil - Wikipedia]]
